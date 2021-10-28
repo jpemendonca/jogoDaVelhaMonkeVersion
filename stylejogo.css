@@ -1,0 +1,27 @@
+body{
+    background-image: url(http://st.gde-fon.com/wallpapers_original/570742_obezyana_model_shimpanze_nastroenie_1920x1080_www.Gde-Fon.com.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+
+}
+
+
+
+.square{
+    height: 120px;
+    width: 120px;
+    border: 1px solid grey;
+    display: inline-block;
+    background-color: lightcoral;
+    font-size: 70px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.square:hover{
+    cursor: pointer;
+}
+
+
